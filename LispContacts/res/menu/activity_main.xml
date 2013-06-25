@@ -1,0 +1,4 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/addNewContact" android:title="+ Add New" android:showAsAction="always" android:titleCondensed="+ New" android:onClick="onPlusTap"></item>
+
+</menu>
