@@ -7,5 +7,8 @@ The application works as follows:
 * The UI navigation and edit form layout is defined using Android Developer Tools.
 * Lisp is used to manage the contact data (sorting the list, reader/printer for storage persistence, etc.).
 
+See Mark Watson's blog for build instructions for Android Studio:
+http://blog.markwatson.com/2013/06/interesting-product-mocl-common-lisp-for-building-ios-and-android-apps/
+
 There is also an iOS version which uses the exact same app.lisp file:
 https://github.com/Wukix/mocl-example-lisp-contacts-ios
