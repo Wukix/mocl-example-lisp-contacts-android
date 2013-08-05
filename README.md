@@ -8,7 +8,7 @@ The application works as follows:
 * Lisp is used to manage the contact data (sorting the list, reader/printer for storage persistence, etc.).
 
 See Mark Watson's blog for build instructions for Android Studio:
-http://blog.markwatson.com/2013/06/interesting-product-mocl-common-lisp-for-building-ios-and-android-apps/
+http://markwatson.com/blog/2013-06/interesting-product-mocl.html
 
 There is also an iOS version which uses the exact same app.lisp file:
 https://github.com/Wukix/mocl-example-lisp-contacts-ios
