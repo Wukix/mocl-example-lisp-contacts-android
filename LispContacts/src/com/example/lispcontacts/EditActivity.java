@@ -25,9 +25,9 @@ public class EditActivity extends Activity {
 		txtEmail = (EditText)findViewById(R.id.txtEmail);
 		txtMobile = (EditText)findViewById(R.id.txtMobile);
 		
-		txtName.setText(CL.get_contact_name());
-		txtEmail.setText(CL.get_contact_email());
-		txtMobile.setText(CL.get_contact_mobile());
+		txtName.setText((String)CL.get_contact_name());
+		txtEmail.setText((String)CL.get_contact_email());
+		txtMobile.setText((String)CL.get_contact_mobile());
 	}
 
 	/**
